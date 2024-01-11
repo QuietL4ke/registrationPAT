@@ -1,6 +1,6 @@
 # RegistrationPAT
 
-<b>Client-Server application for users registration
+<b>Client-Server application for users registration</b>
 
 ## Local Project Setup
 
